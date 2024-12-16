@@ -131,3 +131,8 @@ dist
 
 # Data Folder
 /data
+
+# Public content: it will be build at runtime
+/public/*
+
+
