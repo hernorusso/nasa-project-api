@@ -18,3 +18,7 @@ By default the API will allow cross origin request from `http://localhost:3000`
 
 This app requires nasa data to be place in the root of the project in a `data` folder: `/data`
 The data format should be `csv`, and you can get it from this url: `https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=cumulative`
+
+## Architecture Layout
+
+![architecture](https://github.com/hernorusso/nasa-project-api/blob/main/architecture.png?raw=true)
